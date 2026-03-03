@@ -33,7 +33,11 @@ Open To:
 🌐 Portfolio: **[aashishkumardas.com.np](http://aashishkumardas.com.np)**  
 
 ---
+---
 
+🌐 Resume: **[RESUME]([http://aashishkumardas.com.np](https://kiitacin-my.sharepoint.com/:w:/g/personal/23053806_kiit_ac_in/IQDsKb4GyHLYQq-YQFf8X9DDAc1IYK1fMztpvRFRXz_7iQI?rtime=8PmlyRN53kg))** 
+
+---
 ## 🛠 Tech Stack
 
 <p align="center">
