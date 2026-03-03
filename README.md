@@ -35,7 +35,19 @@ Open To:
 ---
 ---
 
-🌐 Resume: https://kiitacin-my.sharepoint.com/:w:/g/personal/23053806_kiit_ac_in/IQDsKb4GyHLYQq-YQFf8X9DDAc1IYK1fMztpvRFRXz_7iQI?rtime=8PmlyRN53kg
+## 📄 Resume & Opportunities
+
+<p align="center">
+
+<a href="https://kiitacin-my.sharepoint.com/:w:/g/personal/23053806_kiit_ac_in/IQDsKb4GyHLYQq-YQFf8X9DDAc1IYK1fMztpvRFRXz_7iQI?rtime=8PmlyRN53kg" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20View%20Resume-F97316?style=for-the-badge"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/📬%20Contact%20Me-000000?style=for-the-badge"/>
+</a>
+
+</p>
 
 ---
 ## 🛠 Tech Stack
