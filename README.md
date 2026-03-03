@@ -30,7 +30,11 @@ Open To:
   - Internships
 ```
 
-🌐 Portfolio: **[aashishkumardas.com.np](http://aashishkumardas.com.np)**  
+🌐 Portfolio: <p align="center">
+
+<a href="https://www.aashishkumardas.com.np/" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20View%20Portfolio-F97316?style=for-the-badge"/>
+</a> 
 
 ---
 ---
