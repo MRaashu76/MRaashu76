@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Aashish+Das+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Digital+Experiences;From+Odisha+%F0%9F%87%AE%F0%9F%87%B3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Aashish+Das+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Digital+Experiences;From+NEPAL+%F0%9F%87%AE%F0%9F%87%B3" />
 </h1>
 
 <p align="center">
@@ -21,6 +21,7 @@ Role: Full Stack Developer
 Currently Building:
   - Personal Portfolio
   - Event Management Platform
+  - Many More Requested Web Platform
 Open To:
   - Collaboration
   - Freelance
