@@ -43,7 +43,7 @@ Open To:
 
 <p align="center">
 
-<a href="https://kiitacin-my.sharepoint.com/:w:/g/personal/23053806_kiit_ac_in/IQDsKb4GyHLYQq-YQFf8X9DDAc1IYK1fMztpvRFRXz_7iQI?rtime=8PmlyRN53kg" target="_blank">
+<a href="https://drive.google.com/file/d/1sShtXEToJzTebv70srFt55YFj2wo_4vT/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/📄%20View%20Resume-F97316?style=for-the-badge"/>
 </a>
 
